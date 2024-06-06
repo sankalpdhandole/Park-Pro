@@ -26,7 +26,6 @@ server.js: Entry point for the Node.js server.
 
 Usage
 Register a user:
-
 Access the registration page and fill in the required information.
 Upon successful registration, a unique QR code will be generated.
 Print and affix the QR code to the vehicle.
